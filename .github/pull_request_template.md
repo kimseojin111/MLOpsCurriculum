@@ -1,4 +1,4 @@
-## Type of PR : [New Features, Fix, Structure changes, etc.]
+## Type of PR  : [New Features, Fix, Structure changes, etc.]
 
 ```
 [ ] Bugfix
